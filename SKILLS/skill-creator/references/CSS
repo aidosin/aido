@@ -1,0 +1,7 @@
+img:hover {
+    scale: 1.2;
+    clip-path: inset(
+        10% 10% 10% 10%
+        round 20px
+    );
+}
